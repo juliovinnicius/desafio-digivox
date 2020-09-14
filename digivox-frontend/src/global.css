@@ -1,0 +1,57 @@
+.bg-dark {
+  background-color: #214778!important;
+}
+
+.navbar-dark .navbar-brand {
+  color: #fff;
+}
+
+.form-inline .form-control {
+  width: 350px;
+  margin-left: 25px;
+}
+
+.btn-primary {
+  background-color: #046307;
+  border-color: #046307;
+  margin-right: 20px;
+}
+
+.btn-primary:hover {
+  background-color: #306304;
+  border-color: #306304;
+}
+
+
+.btn-danger {
+  color: #fff;
+  background-color: #ff0000;
+  border-color: #ff0000;
+}
+
+
+h2 {
+  margin-top: 2rem;
+  padding-left: 4rem;
+}
+
+.table {
+  margin-top: 2rem;
+  margin-left: 4rem;
+  max-width: 80rem;
+}
+
+.table td, .table th {
+  vertical-align: inherit;
+  text-align: center;
+}
+
+td .btn-primary {
+  background-color: #ff0000;
+  border-color: #ff0000;
+}
+
+td .btn-primary:hover {
+  background-color: #E02041;
+  border-color: #E02041;
+}
