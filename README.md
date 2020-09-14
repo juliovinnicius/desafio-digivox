@@ -47,5 +47,6 @@ OBS: Sinta-se à vontade para utilizar outras tecnologias.
 ## Instruções
 1. Primeiro abra utilizando o Intellij IDEA a pasta java-spring-idea-example.
 2. Dentro do pacote com.digivox clique com o botão direito na classe Application e escolha a opção Run'Application.main()'.
-3. Após isso abra com Visual Studio Code a pasta digivox-frontend.
-4. utilizando o terminal do VS Code execute o comando yarn start. Caso não tenha o yarn instalado visite o site https://classic.yarnpkg.com/pt-BR/docs/install/#debian-stable.
+3. Para visualizar a api através do swagger acessar o link http://localhost:8080/swagger-ui.html
+4. Após isso abra com Visual Studio Code a pasta digivox-frontend.
+5. utilizando o terminal do VS Code execute o comando yarn start. Caso não tenha o yarn instalado visite o site https://classic.yarnpkg.com/pt-BR/docs/install/#debian-stable. 
